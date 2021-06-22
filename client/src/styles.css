@@ -1,0 +1,9 @@
+body {
+    font-size: 16px;
+}
+
+.mdc-card .mdc-card-inner {
+    padding: 1em;
+    font-size: 1.2em;
+    text-align: center;
+}
